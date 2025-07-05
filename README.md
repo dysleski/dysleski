@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @dysleski
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently enroled on python bootcamp and will later continue with data science and machine learning.
-- 💞️ I’m looking to learn more. I am a dedicated person and love to get things done.
-- 📫 
+- Hope I can learn something
 
 <!---
 dysleski/dysleski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
